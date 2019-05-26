@@ -11,7 +11,11 @@ An MSI GeForce GTX 1070Ti and an MSI GeForce GTX 1060 OC GPU were used for train
 
 # Datasets and trained models
 
-We do not have license to include images from the individual data sets at this time. Please download them into the datasets folder as follows:
+Please download the models at https://drive.google.com/file/d/1zkyZCU6KBzPAUIH7gjDl4gkjSAFdUawi/
+
+We do not have license to include images from the individual data sets at this time. Please download them into the datasets folder. 
+
+Your file structure should be as follows:
 
     .
     ├── ...               
@@ -22,7 +26,8 @@ We do not have license to include images from the individual data sets at this t
     │   └── VeRi 
     ├── excluders                
     ├── nets  
-    ├── models            
+    ├── models       
+    ├── resnet_v1_50.ckpt  
     ├── test.py                
     ├── evaluate.py             
     └── ...
