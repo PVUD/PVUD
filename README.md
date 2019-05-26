@@ -1,6 +1,6 @@
 # Unifying Person and Vehicle Re-identification
 
-Instructions for evaluating the results of our BMVC 2018 submitted paper.
+Instructions for evaluating the results of our TCSVT submitted paper.
 
 The provided code was developed using the following software:
 - Python 3.4
